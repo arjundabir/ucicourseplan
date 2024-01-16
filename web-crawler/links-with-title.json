@@ -1,0 +1,666 @@
+[
+    {
+        "title": "Korean Literature and Culture, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/koreanliteratureandculture_ba/"
+    },
+    {
+        "title": "Comparative Literature, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofcomparativeliterature/comparativeliterature_ba/"
+    },
+    {
+        "title": "Education, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofeducation/education_minor/"
+    },
+    {
+        "title": "Music, B.A.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofmusic/music_ba/"
+    },
+    {
+        "title": "Anthropology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofanthropology/anthropology_minor/"
+    },
+    {
+        "title": "Urban Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofurbanplanningandpublicpolicy/urbanstudies_ba/"
+    },
+    {
+        "title": "Humanities and Law, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/specialprograms/humanitiesandlaw_minor/"
+    },
+    {
+        "title": "History, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofhistory/history_minor/"
+    },
+    {
+        "title": "Chinese Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/chinesestudies_ba/"
+    },
+    {
+        "title": "Genetics, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/departmentofdevelopmentalandcellbiology/genetics_bs/"
+    },
+    {
+        "title": "Russian Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/russianstudies_minor/"
+    },
+    {
+        "title": "English, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofenglish/english_minor/"
+    },
+    {
+        "title": "Biomedical Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofbiomedicalengineering/biomedicalengineering_bs/"
+    },
+    {
+        "title": "Global Cultures, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/undergraduateprograminglobalcultures/globalcultures_ba/"
+    },
+    {
+        "title": "Dance, B.F.A.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdance/dance_bfa/"
+    },
+    {
+        "title": "Japanese Language and Literature, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/japaneselanguageandliterature_ba/"
+    },
+    {
+        "title": "Social Ecology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/socialecology_minor/"
+    },
+    {
+        "title": "Art, B.A.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofart/art_ba/"
+    },
+    {
+        "title": "Gender and Sexuality Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofgenderandsexualitystudies/genderandsexualitystudies_ba/"
+    },
+    {
+        "title": "Cognitive Sciences, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/cognitivesciences_bs/"
+    },
+    {
+        "title": "Armenian Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofhistory/armenianstudies_minor/"
+    },
+    {
+        "title": "Psychological Science, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofpsychologicalscience/psychologicalscience_ba/"
+    },
+    {
+        "title": "Japanese Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/japanesestudies_minor/"
+    },
+    {
+        "title": "Mathematics, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/mathematics_bs/"
+    },
+    {
+        "title": "Economics, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/economics_minor/"
+    },
+    {
+        "title": "Accounting, Minor",
+        "uri": "http://catalogue.uci.edu/thepaulmerageschoolofbusiness/accounting_minor/"
+    },
+    {
+        "title": "Archaeology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofarthistory/archaeology_minor/"
+    },
+    {
+        "title": "Environmental Science and Policy, B.A.",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/environmentalscienceandpolicy_ba/"
+    },
+    {
+        "title": "English, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofenglish/english_ba/"
+    },
+    {
+        "title": "Aerospace Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmechanicalandaerospaceengineering/aerospaceengineering_bs/"
+    },
+    {
+        "title": "Political Science, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofpoliticalscience/politicalscience_minor/"
+    },
+    {
+        "title": "Digital Arts, Minor",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofart/digitalarts_minor/"
+    },
+    {
+        "title": "Physics, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofphysicsandastronomy/physics_bs/"
+    },
+    {
+        "title": "Computer Science, B.S.",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_bs/"
+    },
+    {
+        "title": "Informatics, B.S.",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/informatics_bs/"
+    },
+    {
+        "title": "Religious Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/undergraduateprograminreligiousstudies/religiousstudies_minor/"
+    },
+    {
+        "title": "Art History, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofarthistory/arthistory_ba/"
+    },
+    {
+        "title": "Mathematics for Biology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/mathematicsforbiology_minor/"
+    },
+    {
+        "title": "Economics, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/economics_ba/"
+    },
+    {
+        "title": "Quantitative Economics, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/quantitativeeconomics_ba/"
+    },
+    {
+        "title": "Global Health, Minor",
+        "uri": "http://catalogue.uci.edu/programinpublichealth/globalhealth_minor/"
+    },
+    {
+        "title": "Computer Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofelectricalengineeringandcomputerscience/computerengineering_bs/"
+    },
+    {
+        "title": "Education Sciences, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofeducation/education_ba/"
+    },
+    {
+        "title": "Social Ecology, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/socialecology_ba/"
+    },
+    {
+        "title": "German Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/germanstudies_ba/"
+    },
+    {
+        "title": "Hearing and Speech Sciences, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/hearingandspeechsciences_minor/"
+    },
+    {
+        "title": "Music Theatre, B.F.A.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdrama/musictheatre_bfa/"
+    },
+    {
+        "title": "Social Policy and Public Service, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/socialpolicyandpublicservice_ba/"
+    },
+    {
+        "title": "Psychology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/psychology_bs/"
+    },
+    {
+        "title": "Urban and Regional Planning, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofurbanplanningandpublicpolicy/urbanandregionalplanning_minor/"
+    },
+    {
+        "title": "Biomedical Engineering, Minor",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofbiomedicalengineering/biomedicalengineering_minor/"
+    },
+    {
+        "title": "Earth and Atmospheric Sciences, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofearthsystemscience/earthandatmosphericsciences_minor/"
+    },
+    {
+        "title": "Persian Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/specialprograms/persianstudies_minor/"
+    },
+    {
+        "title": "Biology/Education, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/biologyeducation_bs/"
+    },
+    {
+        "title": "Pharmaceutical Sciences, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofpharmacyandpharmaceuticalsciences/pharmaceuticalsciences_bs/"
+    },
+    {
+        "title": "Bioinformatics, Minor",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/bioinformatics_minor/"
+    },
+    {
+        "title": "Gender and Sexuality Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofgenderandsexualitystudies/genderandsexualitystudies_minor/"
+    },
+    {
+        "title": "Nursing Science, B.S.",
+        "uri": "http://catalogue.uci.edu/sueandbillgrossschoolofnursing/nursingscience_bs/"
+    },
+    {
+        "title": "Philosophy, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofphilosophy/philosophy_minor/"
+    },
+    {
+        "title": "Medical Humanities, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/specialprograms/medicalhumanities_minor/"
+    },
+    {
+        "title": "Innovation and Entrepreneurship, Minor",
+        "uri": "http://catalogue.uci.edu/thepaulmerageschoolofbusiness/innovationandentrepreneurship_minor/"
+    },
+    {
+        "title": "Asian American Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofasianamericanstudies/asianamericanstudies_ba/"
+    },
+    {
+        "title": "Civic and Community Engagement, Minor",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/civicandcommunityengagement_minor/"
+    },
+    {
+        "title": "Neurobiology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/departmentofneurobiologyandbehavior/neurobiology_bs/"
+    },
+    {
+        "title": "Anthropology, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofanthropology/anthropology_ba/"
+    },
+    {
+        "title": "Public Health Policy, B.A.",
+        "uri": "http://catalogue.uci.edu/programinpublichealth/publichealthpolicy_ba/"
+    },
+    {
+        "title": "Civil Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofcivilandenvironmentalengineering/civilengineering_bs/"
+    },
+    {
+        "title": "Earth System Science, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofearthsystemscience/earthsystemscience_bs/"
+    },
+    {
+        "title": "Health Informatics, Minor",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/healthinformatics_minor/"
+    },
+    {
+        "title": "East Asian Cultures, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/eastasiancultures_ba/"
+    },
+    {
+        "title": "Informatics, Minor",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/informatics_minor/"
+    },
+    {
+        "title": "Japanese Language and Literature, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/japaneselanguageandliterature_minor/"
+    },
+    {
+        "title": "Sociology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofsociology/sociology_minor/"
+    },
+    {
+        "title": "Microbiology and Immunology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/departmentofmolecularbiologyandbiochemistry/microbiologyandimmunology_bs/"
+    },
+    {
+        "title": "Urban Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofurbanplanningandpublicpolicy/urbanstudies_minor/"
+    },
+    {
+        "title": "Computer Science and Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/computerscienceandengineering_bs/"
+    },
+    {
+        "title": "Data Science, B.S.",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/"
+    },
+    {
+        "title": "International Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofglobalandinternationalstudies/internationalstudies_minor/"
+    },
+    {
+        "title": "Psychology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/psychology_minor/"
+    },
+    {
+        "title": "History and Philosophy of Science, Minor",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/historyandphilosophyofscience_minor/"
+    },
+    {
+        "title": "Chicano/Latino Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofchicanolatinostudies/chicanolatinostudies_ba/"
+    },
+    {
+        "title": "Biological Sciences, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/biologicalsciences_bs/"
+    },
+    {
+        "title": "Materials Science and Engineering, Minor",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmaterialsscienceandengineering/materialsscienceandengineering_minor/"
+    },
+    {
+        "title": "Global Middle East Studies, Minor",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/globalmiddleeaststudies_minor/"
+    },
+    {
+        "title": "Film and Media Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentoffilmandmediastudies/filmandmediastudies_ba/"
+    },
+    {
+        "title": "Medical Anthropology, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofanthropology/medicalanthropology_minor/"
+    },
+    {
+        "title": "Philosophy, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofphilosophy/philosophy_ba/"
+    },
+    {
+        "title": "Public Health Sciences, B.S.",
+        "uri": "http://catalogue.uci.edu/programinpublichealth/publichealthsciences_bs/"
+    },
+    {
+        "title": "Spanish, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofspanishandportuguese/spanish_minor/"
+    },
+    {
+        "title": "Business Information Management, B.S.",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/businessinformationmanagement_bs/"
+    },
+    {
+        "title": "Chicano/Latino Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofchicanolatinostudies/chicanolatinostudies_minor/"
+    },
+    {
+        "title": "Art History, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofarthistory/arthistory_minor/"
+    },
+    {
+        "title": "African American Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofafricanamericanstudies/africanamericanstudies_minor/"
+    },
+    {
+        "title": "Music, B.Mus.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofmusic/music_bmus/"
+    },
+    {
+        "title": "Chemical Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofchemicalandbiomolecularengineering/chemicalengineering_bs/"
+    },
+    {
+        "title": "Developmental and Cell Biology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/departmentofdevelopmentalandcellbiology/developmentalandcellbiology_bs/"
+    },
+    {
+        "title": "Ecology and Evolutionary Biology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/departmentofecologyandevolutionarybiology/ecologyandevolutionarybiology_bs/"
+    },
+    {
+        "title": "Digital Filmmaking, Minor",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofart/digitalfilmmaking_minor/"
+    },
+    {
+        "title": "Management, Minor",
+        "uri": "http://catalogue.uci.edu/thepaulmerageschoolofbusiness/management_minor/"
+    },
+    {
+        "title": "Electrical Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofelectricalengineeringandcomputerscience/electricalengineering_bs/"
+    },
+    {
+        "title": "Chemistry, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofchemistry/chemistry_bs/"
+    },
+    {
+        "title": "Linguistics, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentoflanguagescience/linguistics_minor/"
+    },
+    {
+        "title": "Information and Computer Science, B.S.",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/informationandcomputerscience_bs/"
+    },
+    {
+        "title": "Political Science, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofpoliticalscience/politicalscience_ba/"
+    },
+    {
+        "title": "French, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/french_minor/"
+    },
+    {
+        "title": "Drama, Minor",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdrama/drama_minor/"
+    },
+    {
+        "title": "Drama, B.A.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdrama/drama_ba/"
+    },
+    {
+        "title": "Literary Journalism, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofenglish/literaryjournalism_minor/"
+    },
+    {
+        "title": "Mechanical Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmechanicalandaerospaceengineering/mechanicalengineering_bs/"
+    },
+    {
+        "title": "Chinese Language and Literature, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/chineselanguageandliterature_minor/"
+    },
+    {
+        "title": "Chinese Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/chinesestudies_minor/"
+    },
+    {
+        "title": "Italian Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/italianstudies_minor/"
+    },
+    {
+        "title": "Human Biology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/humanbiology_bs/"
+    },
+    {
+        "title": "Business Administration, B.A.",
+        "uri": "http://catalogue.uci.edu/thepaulmerageschoolofbusiness/businessadministration_ba/"
+    },
+    {
+        "title": "Native American Studies, Minor",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/nativeamericanstudies_minor/"
+    },
+    {
+        "title": "Criminology, Law and Society, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofcriminologylawandsociety/criminologylawandsociety_ba/"
+    },
+    {
+        "title": "French, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/french_ba/"
+    },
+    {
+        "title": "Global Cultures, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/undergraduateprograminglobalcultures/globalcultures_minor/"
+    },
+    {
+        "title": "European Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/europeanstudies_minor/"
+    },
+    {
+        "title": "History, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofhistory/history_ba/"
+    },
+    {
+        "title": "Information and Computer Science, Minor",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/informationandcomputerscience_minor/"
+    },
+    {
+        "title": "Korean Literature and Culture, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/koreanliteratureandculture_minor/"
+    },
+    {
+        "title": "Psychological Science, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofpsychologicalscience/psychologicalscience_minor/"
+    },
+    {
+        "title": "Religious Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/undergraduateprograminreligiousstudies/religiousstudies_ba/"
+    },
+    {
+        "title": "STEM Higher Education Research, Minor",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/stemhighereducationresearch_minor/"
+    },
+    {
+        "title": "Dance, B.A.",
+        "uri": "http://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdance/dance_ba/"
+    },
+    {
+        "title": "European Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/europeanstudies_ba/"
+    },
+    {
+        "title": "Statistics, Minor",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/statistics_minor/"
+    },
+    {
+        "title": "Literary Journalism, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofenglish/literaryjournalism_ba/"
+    },
+    {
+        "title": "Film and Media Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentoffilmandmediastudies/filmandmediastudies_minor/"
+    },
+    {
+        "title": "Digital Information Systems, Minor",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/digitalinformationsystems_minor/"
+    },
+    {
+        "title": "Sociology, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofsociology/sociology_ba/"
+    },
+    {
+        "title": "German Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/germanstudies_minor/"
+    },
+    {
+        "title": "Spanish/English Bilingual Education, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofspanishandportuguese/spanishenglishbilingualeducation_minor/"
+    },
+    {
+        "title": "Classics, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofclassics/classics_ba/"
+    },
+    {
+        "title": "Creative Writing, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofenglish/creativewriting_minor/"
+    },
+    {
+        "title": "Materials Science and Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmaterialsscienceandengineering/materialsscienceandengineering_bs/"
+    },
+    {
+        "title": "Latin American Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/specialprograms/latinamericanstudies_minor/"
+    },
+    {
+        "title": "Asian Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/specialprograms/asianstudies_minor/"
+    },
+    {
+        "title": "Game Design and Interactive Media, B.S.",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/gamedesignandinteractivemedia_bs/"
+    },
+    {
+        "title": "Business Economics, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/businesseconomics_ba/"
+    },
+    {
+        "title": "Global Middle East Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/globalmiddleeaststudies_ba/"
+    },
+    {
+        "title": "Division of Undergraduate Education",
+        "uri": "http://catalogue.uci.edu/divisionofundergraduateeducation/#studentprogramsandservicestext"
+    },
+    {
+        "title": "Spanish, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofspanishandportuguese/spanish_ba/"
+    },
+    {
+        "title": "Language Science, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentoflanguagescience/languagescience_ba/"
+    },
+    {
+        "title": "Biological Sciences, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/biologicalsciences_minor/"
+    },
+    {
+        "title": "Latin, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofclassics/latin_minor/"
+    },
+    {
+        "title": "Software Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/softwareengineering_bs/"
+    },
+    {
+        "title": "Mathematics, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/mathematics_minor/"
+    },
+    {
+        "title": "Applied Physics, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofphysicalsciences/departmentofphysicsandastronomy/appliedphysics_bs/"
+    },
+    {
+        "title": "Global Sustainability, Minor",
+        "uri": "http://catalogue.uci.edu/interdisciplinarystudies/globalsustainability_minor/"
+    },
+    {
+        "title": "Queer Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofgenderandsexualitystudies/queerstudies_minor/"
+    },
+    {
+        "title": "Biomedical Engineering: Premedical, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofbiomedicalengineering/biomedicalengineeringpremedical_bs/"
+    },
+    {
+        "title": "Criminology, Law and Society, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofsocialecology/departmentofcriminologylawandsociety/criminologylawandsociety_minor/"
+    },
+    {
+        "title": "Jewish Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/specialprograms/jewishstudies_minor/"
+    },
+    {
+        "title": "Public Health, Minor",
+        "uri": "http://catalogue.uci.edu/programinpublichealth/publichealth_minor/"
+    },
+    {
+        "title": "International Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofglobalandinternationalstudies/internationalstudies_ba/"
+    },
+    {
+        "title": "Environmental Engineering, B.S.",
+        "uri": "http://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofcivilandenvironmentalengineering/environmentalengineering_bs/"
+    },
+    {
+        "title": "African American Studies, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofafricanamericanstudies/africanamericanstudies_ba/"
+    },
+    {
+        "title": "Asian American Studies, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofasianamericanstudies/asianamericanstudies_minor/"
+    },
+    {
+        "title": "Psychology, B.A.",
+        "uri": "http://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/psychology_ba/"
+    },
+    {
+        "title": "Comparative Literature, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofcomparativeliterature/comparativeliterature_minor/"
+    },
+    {
+        "title": "Classical Civilization, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofclassics/classicalcivilization_minor/"
+    },
+    {
+        "title": "Greek, Minor",
+        "uri": "http://catalogue.uci.edu/schoolofhumanities/departmentofclassics/greek_minor/"
+    },
+    {
+        "title": "Exercise Sciences, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/exercisesciences_bs/"
+    },
+    {
+        "title": "Biochemistry and Molecular Biology, B.S.",
+        "uri": "http://catalogue.uci.edu/schoolofbiologicalsciences/departmentofmolecularbiologyandbiochemistry/biochemistryandmolecularbiology_bs/"
+    }
+]
