@@ -1,31 +1,33 @@
 import requests
-import pdfplumber
 import json
+from bs4 import BeautifulSoup
 
-# URL of the PDF file
-pdf_url = "https://catalogue.uci.edu/undergraduatedegrees/undergraduatedegrees.pdf"
+url = "https://catalogue.uci.edu/thepaulmerageschoolofbusiness/accounting_minor/" + \
+    "#requirementstext"
 
-# Download the PDF
-response = requests.get(pdf_url)
-response.raise_for_status()  # Ensure the download was successful
-
-# Save the PDF to a local file
-with open("undergraduatedegrees.pdf", "wb") as f:
-    f.write(response.content)
-
-# Open the PDF with pdfplumber
-with pdfplumber.open("undergraduatedegrees.pdf") as pdf:
-    links = []
-    for page in pdf.pages:
-        # Extract links from each page
-        page_links = page.hyperlinks
-        links.extend(page_links)
-
-# Create a JSON object
 json_data = []
-for link in links:
-    json_data.append({"uri": link['uri']})
 
-# Write the JSON object to a file
-with open("links.json", "w") as f:
-    json.dump(json_data, f, indent=4)
+response = requests.get(url)
+soup = BeautifulSoup(response.content, 'html.parser')
+
+
+def find_table():
+    table = soup.find_all('table', class_='sc_courselist')
+    for index, table in enumerate(soup.find_all("table")):
+        if (index == 0):
+            print("prereq")
+        for tr in table.find_all('tr'):
+            tds = tr.find_all('td')
+            if len(tds) == 2:
+                course_id = tds[0].text.strip()
+                course_title = tds[1].text.strip()
+                course_link = "https://catalogue.uci.edu/" + \
+                    tds[0].find('a')['href']
+
+                print(
+                    f"Course ID: {course_id}, Course Title: {course_title}, Course Link: {course_link}")
+
+    #
+
+
+print(find_table())
