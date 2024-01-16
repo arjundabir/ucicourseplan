@@ -27,7 +27,17 @@ def find_table():
                 print(
                     f"Course ID: {course_id}, Course Title: {course_title}, Course Link: {course_link}")
 
-    #
+
+def remove_minor_courses():
+    with open("links-with-title.json", "r") as f:
+        data = json.load(f)
+
+    for item in data:
+        if "Minor" not in item["title"]:
+            json_data.append(item)
+
+    with open("links-no-minors.json", "w") as f:
+        json.dump(json_data, f, indent=4)
 
 
-print(find_table())
+print(remove_minor_courses())
